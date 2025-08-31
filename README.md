@@ -31,7 +31,7 @@ Through this project, I gained hands-on experience with:
 
 ## ⚙️ Tech Stack
 
-- **Solidity (0.8.20+)**
+- **Solidity (0.8.30+)**
 - **Foundry (Forge, Cast, Anvil)**
 - **Chainlink Oracles**
 
